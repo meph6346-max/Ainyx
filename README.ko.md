@@ -1,6 +1,6 @@
 # NYX
 ### Calendar-Based AI Memory System
-
+[English README →](README.md)
 > “AI의 개성이 세션 종료와 함께 사라지는 것이 너무 아까웠다.”
 
 ---
