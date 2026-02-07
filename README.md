@@ -1,6 +1,6 @@
 # NYX
 ### Calendar-Based AI Memory System
-
+[한국어 README →](README.ko.md)
 > “It felt like such a waste to see AI personalities fade away.”
 
 ---
