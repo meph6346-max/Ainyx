@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="NYX_main" src="https://github.com/user-attachments/assets/55bfd628-fdd1-468b-9570-82a0a7a3546f" />
+![NYX_main](https://github.com/user-attachments/assets/c80290a1-1412-4de9-80fa-04f9c6e8df3b)
 
 # NYX
 ### Calendar-Based AI Memory System
