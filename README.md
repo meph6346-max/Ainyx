@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="NYX_main" src="https://github.com/user-attachments/assets/55bfd628-fdd1-468b-9570-82a0a7a3546f" />
+
 # NYX
 ### Calendar-Based AI Memory System
 [한국어 README →](README.ko.md)
